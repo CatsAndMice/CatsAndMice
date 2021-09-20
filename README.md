@@ -1,5 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=CatsAndMice&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
-
+[![Coco's github stats](https://github-readme-stats.vercel.app/api?username=CatsAndMice&hide=contribs,prs&count_private=true&show_icons=true&&bg_color=30,40941c,cb1597&title_color=fff&text_color=fff&icon_color=fc0)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi, I'm CatsAndMice👋
 >I am a frontEnd web developer from China.
 
