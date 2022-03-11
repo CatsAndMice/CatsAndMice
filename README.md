@@ -4,7 +4,7 @@
 
 
 #### 公众号
-<img alt="微信公众号搜索CatsAndMice" src = 'https://i.bmp.ovh/imgs/2021/10/cd69e46c3bdc6ee3.png' width="500"/>
+<img alt="微信公众号搜索CatsAndMice" src = 'https://i.bmp.ovh/imgs/2022/03/505687cc33a7b2c4.jpg' width="250"/>
 
 #### 语言与框架
 
